@@ -1,0 +1,119 @@
+.table-container 
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'Georgia';
+  border:1px solid black;
+}
+
+ /* font-weight: bold; */
+
+
+.title
+{
+ font-family: 'Georgia';
+}
+
+ /* font-family: 'Brush Script MT'; */
+ 
+.button {
+  background-color: White;
+  border: none;
+  color: Black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: White;
+  border: none;
+  color: BC8F8F;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.h2{
+    margin-right:1100px;
+}
+
+.h3 {
+    margin-right:700px;
+}
+
+.text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nn {
+ word-spacing: 30px;
+}
+
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    margin-right: 10px;
+    height:120px
+}
+
+.text-container1 {
+    text-align:left;
+    
+}
+.text-container2 {
+    text-align:right;
+   
+}
+.text-container3 {
+    text-align:center;
+}    
+
+.equal-height-text {
+        font-size: 16px; /* ???? ?????? ????? */
+        line-height: 16px; /* ???? ????? ????? */
+       
+.contact {
+    text-align:center; 
+    color:#F5F5F5;
+    font-family: 'Copperplate', sans-serif;
+    font-size: 24px;
+}   
+
+
+.button2 {
+  background-color:orange;
+  border: none;
+  color:orange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.body {
+    background-image: url('fly.jpg');
+    background-size: cover; /* ?????? ???? ?????? ???? */
+    background-repeat: no-repeat; /* ?? ????? ?? ?????? */
+}
+
+.photo1{
+    height:250px; 
+    border:2px solid black; 
+    border-radius: 50%"
+}
